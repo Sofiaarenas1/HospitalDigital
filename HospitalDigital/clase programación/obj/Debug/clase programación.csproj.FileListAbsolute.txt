@@ -1,0 +1,24 @@
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\bin\Debug\clase programación.exe.config
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\bin\Debug\clase programación.exe
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\bin\Debug\clase programación.pdb
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.csproj.AssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase_programación.Form1.resources
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase_programación.FormularioPaciente.resources
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase_programación.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.csproj.GenerateResource.cache
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.exe
+C:\Users\Estudiante.SALA235-PC23\source\repos\clase programación\clase programación\obj\Debug\clase programación.pdb
+D:\Documents\HospitalDigital\clase programación\bin\Debug\clase programación.exe.config
+D:\Documents\HospitalDigital\clase programación\bin\Debug\clase programación.exe
+D:\Documents\HospitalDigital\clase programación\bin\Debug\clase programación.pdb
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.csproj.AssemblyReference.cache
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase_programación.Form1.resources
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase_programación.FormularioPaciente.resources
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase_programación.Properties.Resources.resources
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.csproj.GenerateResource.cache
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.csproj.CoreCompileInputs.cache
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.exe
+D:\Documents\HospitalDigital\clase programación\obj\Debug\clase programación.pdb
